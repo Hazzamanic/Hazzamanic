@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+A full-stack dotnet developer currently travelling the world.
+
+- 🔭 I’m currently working on an API filtering library for .NET. Think OData and then... I should stop.
+- 🌬 Enjoying writing, check out [awaitable results](https://www.arkleseizure.net/awaitable-results) or [rust-like error propagation in C#](https://www.arkleseizure.net/rust-like-error-propagation-in-csharp).
 <!--
 **Hazzamanic/Hazzamanic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
